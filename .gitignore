@@ -1,0 +1,11 @@
+# Python 排除清單
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# 排除客戶原始資料 (隱私考量)
+*.xlsx
+*.xls
+*.xml
